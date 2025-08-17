@@ -7,3 +7,5 @@ Future Goal – Specialize in Cybersecurity.
 
 PROGRAM INCLUDES IN THIS FILE..
 Sum of products of two number.
+Different types of strings,function,array as well as structure some code with combination of loops and pointers etc
+Also DSA:
